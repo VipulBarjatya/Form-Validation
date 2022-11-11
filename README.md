@@ -10,8 +10,12 @@
 
 ### Using Built-in form validation
 
-Following are the HTML5 form controls, which gives ability to validate most user data without relying on JavaScript:
+Following are the HTML5 form controls, which i have used in my form validation:
 
-- **required** : Specifies whether a form field needs to be filled in before the form can be submitted.
+- **required** : Used this to make fields required.
 
-- **minlength** and **maxlength**: Specifies the minimum and maximum length of textual data(strings)
+- **minlength** and **maxlength**: Used this to specify minimum length of characters required in field name
+
+- **pattern**: Used this form control to validate with the phone number and password
+
+### Using JavaScript
